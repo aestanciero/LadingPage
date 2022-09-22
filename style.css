@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&family=Montserrat&family=Nunito+Sans&family=PT+Sans:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: Montserrat;
+}
+body{
+    background: #f5ebe0;
+}
+header{
+    background: #d6ccc2 ;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 95px;
+    padding: 0px 150px 0px 30px;
+}
+.logo{
+    height: 100%;
+} 
+    
+.navbar,.list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list{
+    gap: 90px;
+}
+.list a{
+    color:#264653;
+    font-size: 20px;
+}
+.hero{
+    padding: 80px;
+    margin: 100px;
+    margin-bottom: 20px;
+    display: flex;
+    background: #d5bdaf;
+    border-radius: 20px;
+}
+
+.titulo-principal{
+    text-align: center;
+    padding: 30px;
+    font-size: 35px;
+    color: #264653;
+    
+}
+.titulo-secundario{
+    padding: 20px;
+    font-size: 20px;
+    color: #264653;
+    
+}
+#info{
+    padding-left: 20px;
+    color: #264653;
+}
+.button{
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 15px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 40%;
+    background-color: #edede9;
+    
+}
+.button a{
+    color: #264653;
+    
+}
+.img-portada{
+    width: 50%;
+    height: 50%;
+  
+}
+.info-section{
+    padding: 80px;
+    margin: 100px;
+    display: flex;
+    background: #d5bdaf;
+    border-radius: 20px;
+}
+.texto-section{
+    color: #264653;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+
+}
