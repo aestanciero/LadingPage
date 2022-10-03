@@ -278,6 +278,7 @@ footer{
 }
 .cards-info{
     flex-direction: column;
+    
 }
 .info-cards{
     justify-content: center;
@@ -285,6 +286,22 @@ footer{
     text-align: center;
     
 }
+.elegir-producto{
+    
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+}
+.medio-pago{
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+
+}
+.recibir-producto{
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
 footer {
     width: 100%;
     height: 100%;
