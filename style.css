@@ -266,7 +266,7 @@ footer{
     margin-left: 60px;
 }
 .card{
-    margin-left: 100px;
+    /*margin-left: 100px;*/
 }
 .cards-info{
     flex-direction: column;
@@ -274,7 +274,7 @@ footer{
 footer {
     width: 100%;
     height: 100%;
-    margin-left: 60px;
+    /*margin-left: 60px;*/
     border-radius: 15px;
     
 
