@@ -282,8 +282,14 @@ footer {
 .container-footer{
     flex-direction: column;
     gap: 10px;
-
-
 }
-
+.titulo-footer{
+    text-align: center;
+}
+.inst-face{
+    justify-content: flex-start;
+}
+.derechos-reservados{
+    margin: 10px;
+}
 }
