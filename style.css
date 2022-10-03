@@ -257,6 +257,7 @@ footer{
     }
 .navbar i {
     display: block;
+    color: #264653;
 }
 #toggle-menu:checked ~ .list{
     transform: translateX(0);
@@ -264,12 +265,25 @@ footer{
 }
 .button{
     margin-left: 60px;
+}.hero{
+    justify-content: center;
+    align-items: center;
+    margin-left: 35px;
+
 }
-.card{
-    /*margin-left: 100px;*/
+.info-section{
+    justify-content: center;
+    align-items: center;
+    margin-left: 35px;
 }
 .cards-info{
     flex-direction: column;
+}
+.info-cards{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
 }
 footer {
     width: 100%;
